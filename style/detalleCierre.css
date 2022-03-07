@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: rgb(236, 236, 236);
+    height: 100vh;
+    width: 100%;
+}
+
+
+.container{
+    background-color: rgba(70, 87, 243, 0.973);
+    width: 100%;
+}
+a{
+    color: white;
+}
+header{
+    width: 100%;
+    margin-left: 0px;
+    background-color: rgba(70, 87, 243, 0.973);
+    height: 72px;
+}
+.nav-item{
+    padding: 10px;
+}
+.oculto.activo{
+    display: flex;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+.text-gray{
+    color: rgb(209, 255, 82);
+}
+
+.text-white{
+    color: white;
+}
